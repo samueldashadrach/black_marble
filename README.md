@@ -62,3 +62,9 @@ Recommendations
 - Prefer VCMSLCFG for months in stray‑light season (roughly Apr–Aug at Tokyo’s latitude), or use the newer EOG VNL v2 monthly or NASA Black Marble VNP46A3 v2 which include more robust corrections.
 - Always use cf_cvg (observation count) to weight or filter monthly comparisons; avoid interpreting months with very low cf_cvg.
 ```
+
+---
+
+conclusion
+ - many cities are not visible during april may june july 2020 when covid hit, pick a different dataset within black marble
+
