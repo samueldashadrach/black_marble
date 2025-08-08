@@ -66,5 +66,9 @@ Recommendations
 ---
 
 conclusion
+ - some differences are visible to naked eye on GE Pro, especially if you skip many months at once
  - many cities are not visible during april may june july 2020 when covid hit, pick a different dataset within black marble
+
+
+
 
